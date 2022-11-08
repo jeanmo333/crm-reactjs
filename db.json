@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "9183981398139",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Moril 2",
+      "empresa": "Mayorista & distribuidora Rosita SPA",
+      "email": "Jeanmo333@gmail.com",
+      "telefono": "961650654",
+      "notas": "notas",
+      "id": 8
+    },
+    {
+      "nombre": "Francois",
+      "empresa": "Mayorista & distribuidora Rosita SPA",
+      "email": "Jeanmo333@gmail.com",
+      "telefono": "961650654",
+      "notas": "nkl",
+      "id": 9
+    }
+  ]
+}
